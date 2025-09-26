@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+//Cartas Super Trunfo
 //variáveis
 
     char estado, estado2;
